@@ -1,6 +1,6 @@
 # React Router V4 
 
->I created this App to understand React Router V4
+>React Router V4 is Tutorial
 
 ## Technology Used:
 
